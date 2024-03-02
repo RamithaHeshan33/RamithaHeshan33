@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ramitha heshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramitha heshan" height="30" width="40" /></a>
 <a href="https://kaggle.com/ramithaheshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramithaheshan" height="30" width="40" /></a>
-<a href="https://fb.com/ramitha heshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramitha heshan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ramitha.heshan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramitha heshan" height="30" width="40" /></a>
 <a href="https://instagram.com/ramitha heshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramitha heshan" height="30" width="40" /></a>
 <a href="https://medium.com/@ramitha33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramitha33" height="30" width="40" /></a>
 </p>
