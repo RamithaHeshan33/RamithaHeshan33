@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Software Engineering**
 
-- 👨‍💻 All of my projects are available at [ramh.rf.gd](ramh.rf.gd)
+- 👨‍💻 All of my projects are available at [https://ramh.rf.gd](https://ramh.rf.gd)
 
 - 📝 I regularly write articles on [https://medium.com/@ramitha33](https://medium.com/@ramitha33)
 
