@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramitha Heshan</h1> 
-<h3 align="center">Undergraduate in Cardiff Metropolitan University</h3>
+<h3 align="center">Software Engineering UG in Cardiff Metropolitan University in UK</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamithaHeshan33&label=Profile%20views&color=0e75b6&style=flat" alt="RamithaHeshan33" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C++, Java**
 
-- 📫 How to reach me **ramitha2002@gmail.com**
+- 📫 How to reach me **heshanramitha@gmail.com**
 
 - ⚡ Fun fact **Call me Ramiya**
 
