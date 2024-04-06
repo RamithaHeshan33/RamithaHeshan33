@@ -5,7 +5,7 @@
 
 ---
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/RamithaHeshan33/RamithaHeshan33/blob/main/Right_Side.gif">
 </a>
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Software Engineering**
