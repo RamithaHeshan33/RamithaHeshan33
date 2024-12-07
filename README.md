@@ -3,11 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamithaHeshan33&label=Profile%20views&color=0e75b6&style=flat" alt="RamithaHeshan33" /> </p>
 
-<div style="align-items: center;">
-  
-![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false)
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400)  ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)
 
 </div>
+
 
 ---
 
