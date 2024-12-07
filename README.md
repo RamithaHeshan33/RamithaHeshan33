@@ -3,7 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamithaHeshan33&label=Profile%20views&color=0e75b6&style=flat" alt="RamithaHeshan33" /> </p>
 
+<div style="align-items: center;">
+  
+![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false)
+
+</div>
+
 ---
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/RamithaHeshan33/RamithaHeshan33/blob/main/Right_Side.gif">
 </a>
@@ -38,12 +45,12 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false)
+<!-- <h3>My Batches</h3>
+
+<img src="https://github.com/user-attachments/assets/a79641a0-ca12-4a89-b0f8-1a6920cd5c39" alt="Batch 1" width="150" height="150"> <img src="https://github.com/user-attachments/assets/6646f1b5-4adc-494b-a755-425a50f51ae0" alt="Batch 1" width="150" height="150"> <img src="https://github.com/user-attachments/assets/a9a1ed6c-d1a5-452b-bf93-0e8f6954394c" alt="Batch 1" width="150" height="150"> -->
 
 
 <!-- Footer -->
 <img src="https://github.com/RamithaHeshan33/RamithaHeshan33/blob/main/footer.svg">
-
-
 
 
