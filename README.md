@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400)  ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)
+  ![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)  ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)
 
 </div>
 
