@@ -28,6 +28,8 @@
 
 - ⚡ Fun fact **Call me Ramiya**
 
+- ✨ My Badges with My Project [batchstore.kesug.com/ramitha33](http://batchstore.kesug.com/search.php?username=Ramitha33)
+
 ---
 
 <h3 align="left">Connect with me:</h3>
