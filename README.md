@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ramitha33](https://medium.com/@ramitha33)
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **JavaScript, C++, Java**
 
 - 📫 How to reach me **heshanramitha@gmail.com**
 
